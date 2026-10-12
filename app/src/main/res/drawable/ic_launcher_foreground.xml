@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cricket Bat Handle -->
+    <path
+        android:fillColor="#F5B700"
+        android:pathData="M34,30 L38,26 L45,33 L41,37 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:pathData="M36,28 L43,35" />
+    <!-- Cricket Bat Blade -->
+    <path
+        android:fillColor="#FFC93C"
+        android:pathData="M39,35 L43,31 L69,57 C72,60 72,65 69,68 L64,73 C61,76 56,76 53,73 L39,59 Z" />
+    <!-- Bat Wood Shadow -->
+    <path
+        android:fillColor="#E09F00"
+        android:pathData="M43,39 L65,61 C67,63 67,66 65,68 L61,72 C60,73 58,73 57,72 L41,56 Z" />
+    <!-- Cricket Ball Circle -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M70,32 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <!-- Ball Highlight -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M66,28 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- Ball Seam -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M61,22 Q70,32 79,42" />
+    <!-- Stitches -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:pathData="M63,22 L65,25 M67,26 L69,29 M71,30 L73,33 M75,34 L77,37 M78,39 L80,42" />
+    <!-- Star Accent -->
+    <path
+        android:fillColor="#F5B700"
+        android:pathData="M35,68 L37,73 L42,73 L38,76 L40,81 L35,78 L30,81 L32,76 L28,73 L33,73 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Mahi Cric Pro",
+  "description": "Professional offline cricket scoring app with CricHeroes style live scoring, detailed stats, DLS, and match safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

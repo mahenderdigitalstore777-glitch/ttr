@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">माही क्रिक प्रो</string>
+    <string name="tagline">ऑफ़लाइन प्रो क्रिकेट स्कोरर</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_home">होम</string>
+    <string name="nav_matches">मैच</string>
+    <string name="nav_tournaments">टूर्नामेंट</string>
+    <string name="nav_teams">टीमें</string>
+    <string name="nav_more">अधिक</string>
+    <string name="new_match">नया मैच</string>
+    
+    <!-- Top Bar -->
+    <string name="search_hint">मैच, टीम, खिलाड़ी खोजें…</string>
+    <string name="notifications_title">सूचनाएं</string>
+    <string name="no_notifications">कोई नई सूचना नहीं</string>
+    <string name="clear_all">सभी हटाएं</string>
+    
+    <!-- Resume Match -->
+    <string name="resume_match_title">अधूरा मैच फिर से शुरू करें</string>
+    <string name="resume_scoring">स्कोरिंग जारी रखें</string>
+    <string name="open_home">होम खोलें</string>
+    <string name="match_in_progress">मैच जारी है - फिर से शुरू करने के लिए टैप करें</string>
+    <string name="match_saved_automatically">आपका मैच स्थानीय स्टोरेज में सुरक्षित सहेजा गया है।</string>
+    <string name="leave_scoring_confirm">स्कोरिंग छोड़ें? सभी गेंदें सुरक्षित हैं।</string>
+    
+    <!-- Scoring Pad -->
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_6">6</string>
+    <string name="btn_5">5</string>
+    <string name="btn_custom">कस्टम</string>
+    <string name="btn_wicket">विकेट</string>
+    <string name="btn_wide">वाइड</string>
+    <string name="btn_noball">नो बॉल</string>
+    <string name="btn_bye">बाई</string>
+    <string name="btn_legbye">लेग बाई</string>
+    <string name="btn_penalty">पेनाल्टी</string>
+    <string name="btn_strike">स्ट्राइक</string>
+    <string name="btn_undo">अनडू</string>
+    <string name="btn_redo">रीडू</string>
+    <string name="btn_short_run">शॉर्ट रन</string>
+    
+    <!-- Scoring Labels -->
+    <string name="free_hit">फ्री हिट</string>
+    <string name="this_over">यह ओवर</string>
+    <string name="crr">सीआरआर</string>
+    <string name="rrr">आरआरआर</string>
+    <string name="target">लक्ष्य</string>
+    <string name="partnership">साझेदारी</string>
+    <string name="last_wicket">पिछला विकेट</string>
+    <string name="win_probability">जीत की संभावना</string>
+    
+    <!-- Side Panel Tools -->
+    <string name="tool_scorecard">स्कोरकार्ड</string>
+    <string name="tool_commentary">कमेंट्री</string>
+    <string name="tool_partnerships">साझेदारी</string>
+    <string name="tool_wagon_wheel">वैगन व्हील</string>
+    <string name="tool_change_bowler">गेंदबाज बदलें</string>
+    <string name="tool_retire">रिटायर बल्लेबाज</string>
+    <string name="tool_swap_batsmen">बल्लेबाज बदलें</string>
+    <string name="tool_runner">रनर</string>
+    <string name="tool_substitute">सब्स्टिट्यूट</string>
+    <string name="tool_edit_score">स्कोर संपादित करें</string>
+    <string name="tool_scoring_log">गेंद लॉग</string>
+    <string name="tool_rain_dls">बारिश / डीएलएस</string>
+    <string name="tool_pause">रोकें / जारी रखें</string>
+    <string name="tool_end_innings">पारी समाप्त</string>
+    <string name="tool_declare">घोषित करें</string>
+    <string name="tool_abandon">रद्द करें</string>
+    <string name="tool_dead_ball">डेड बॉल</string>
+    <string name="tool_notes">स्कोरर नोट्स</string>
+    <string name="tool_settings">मैच सेटिंग्स</string>
+    <string name="tool_voice">आवाज़ / ध्वनि</string>
+    
+    <!-- Wicket Types -->
+    <string name="wkt_bowled">बोल्ड</string>
+    <string name="wkt_caught">कैच आउट</string>
+    <string name="wkt_lbw">एलएडब्ल्यू</string>
+    <string name="wkt_runout">रन आउट</string>
+    <string name="wkt_stumped">स्टंप आउट</string>
+    <string name="wkt_hit_wicket">हिट विकेट</string>
+    <string name="wkt_retired_hurt">रिटायर्ड हर्ट</string>
+    <string name="wkt_retired_out">रिटायर्ड आउट</string>
+    <string name="wkt_handled_ball">हैंडल्ड द बॉल</string>
+    <string name="wkt_hit_twice">हिट द बॉल ट्वाइस</string>
+    <string name="wkt_obstructing">ऑब्सट्रक्टिंग द फील्ड</string>
+    <string name="wkt_timed_out">टाइम आउट</string>
+    
+    <!-- Innings & Result -->
+    <string name="innings_break">पारी ब्रेक</string>
+    <string name="start_second_innings">दूसरी पारी शुरू करें</string>
+    <string name="match_result">मैच परिणाम</string>
+    <string name="rematch">पुनः मैच</string>
+    <string name="share_scorecard">स्कोरकार्ड साझा करें</string>
+    <string name="man_of_the_match">प्लेयर ऑफ द मैच</string>
+    
+    <!-- General -->
+    <string name="cancel">रद्द करें</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="save">सहेजें</string>
+    <string name="select">चुनें</string>
+    <string name="next">आगे</string>
+    <string name="back">पीछे</string>
+    <string name="toss_winner">टॉस विजेता</string>
+    <string name="elected_to_bat">बल्लेबाजी चुनी</string>
+    <string name="elected_to_bowl">गेंदबाजी चुनी</string>
+    <string name="striker">स्ट्राइकर</string>
+    <string name="non_striker">नॉन-स्ट्राइकर</string>
+    <string name="bowler">गेंदबाज</string>
+    
+    <!-- Drawer & Settings -->
+    <string name="menu_profile">प्रोफ़ाइल</string>
+    <string name="menu_my_matches">मेरे मैच</string>
+    <string name="menu_my_teams">मेरी टीमें</string>
+    <string name="menu_my_tournaments">मेरे टूर्नामेंट</string>
+    <string name="menu_players">खिलाड़ी</string>
+    <string name="menu_match_history">मैच इतिहास</string>
+    <string name="menu_stats">लीडरबोर्ड और आँकड़े</string>
+    <string name="menu_grounds">मैदान</string>
+    <string name="menu_umpires">अंपायर</string>
+    <string name="menu_backup_restore">बैकअप और पुनर्स्थापना</string>
+    <string name="menu_rules">क्रिकेट नियम गाइड</string>
+    <string name="menu_help">मदद / सवाल</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="menu_about">के बारे में</string>
+    <string name="menu_share_app">ऐप साझा करें</string>
+    <string name="menu_rate_app">रेट करें</string>
+    
+    <string name="language_toggle">भाषा</string>
+    <string name="theme_toggle">डार्क मोड</string>
+    <string name="battery_saver">बैटरी सेवर स्कोरिंग मोड</string>
+    <string name="battery_warning">बैटरी कम है (&lt;15%)। मैच स्थानीय रूप से सुरक्षित है।</string>
+</resources>
